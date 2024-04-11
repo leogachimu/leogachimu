@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **leogachimu@gmail.com**
 
-- ⚡ Fun fact **I used to think Python bugs are venomous**
+- ⚡ Fun fact **I used to think Python is evil**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
