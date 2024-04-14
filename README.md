@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonard Gachimu</h1>
+<h1 align="center">Hi 👋, I'm Leonard</h1>
 <h3 align="center">A passionate and curious data professional.</h3>
 
 <p align="left"> <a href="https://twitter.com/leonardmwangi23" target="blank"><img src="https://img.shields.io/twitter/follow/leonardmwangi23?logo=twitter&style=for-the-badge" alt="leonardmwangi23" /></a> </p>
