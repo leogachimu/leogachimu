@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **leogachimu@gmail.com**
 
-- ⚡ Fun fact **I used to think Python is evil**
+- ⚡ Fun fact **Codes with a deadline always work** :ok_hand:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
