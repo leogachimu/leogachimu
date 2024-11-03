@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/leonardmwangi23" target="blank"><img src="https://img.shields.io/twitter/follow/leonardmwangi23?logo=twitter&style=for-the-badge" alt="leonardmwangi23" /></a> </p>
 
-- 🔭 I’m currently working on **data extraction from dynamic websites**
+- 🔭 I’m currently working on **building data pipelines**
 
 - 🌱 I’m currently learning **Pytorch, Tensorflow, dbt & analytics engineering**
 
