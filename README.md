@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **data extraction from dynamic websites**
 
-- 🌱 I’m currently learning **Pytorch, Tensorflow**
+- 🌱 I’m currently learning **Pytorch, Tensorflow, dbt & analytics engineering**
 
-- 👯 I’m looking to collaborate on **Deep Learning**
+- 👯 I’m looking to collaborate on **Data Engineering**
 
 - 🤝 I’m looking for help with **chatbots**
 
-- 💬 Ask me about **Python, machine learning**
+- 💬 Ask me about **Python, SQL, machine learning**
 
 - 📫 How to reach me **leogachimu@gmail.com**
 
